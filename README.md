@@ -17,7 +17,7 @@ This is CS50x , Harvard University's introduction to the intellectual enterprise
 
 [credits](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
 
-## CS50x 2021
+## CS50x 2022
 
 * [Week 0 - Scratch](https://github.com/MariaGrandmaison/CS50x/tree/master/Week_0_Scratch)
 * [Week 1 - C](https://github.com/MariaGrandmaison/CS50x/tree/master/Week_1_C)
